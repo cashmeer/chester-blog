@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/chester-blog/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/chester-blog/static/js/main.dad445f1.chunk.js",
+    "main.js.map": "/chester-blog/static/js/main.dad445f1.chunk.js.map",
+    "runtime-main.js": "/chester-blog/static/js/runtime-main.b3f5eb90.js",
+    "runtime-main.js.map": "/chester-blog/static/js/runtime-main.b3f5eb90.js.map",
+    "static/js/2.869497da.chunk.js": "/chester-blog/static/js/2.869497da.chunk.js",
+    "static/js/2.869497da.chunk.js.map": "/chester-blog/static/js/2.869497da.chunk.js.map",
+    "static/js/3.023c761b.chunk.js": "/chester-blog/static/js/3.023c761b.chunk.js",
+    "static/js/3.023c761b.chunk.js.map": "/chester-blog/static/js/3.023c761b.chunk.js.map",
+    "index.html": "/chester-blog/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/chester-blog/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.869497da.chunk.js.LICENSE.txt": "/chester-blog/static/js/2.869497da.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/chester-blog/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b3f5eb90.js",
+    "static/js/2.869497da.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.dad445f1.chunk.js"
+  ]
+}
